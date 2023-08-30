@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [snap cut's](https://github.com/abhimehtaa339/News_tv)
+- 🔭 I’m currently working on [Food recipe app](https://github.com/abhimehtaa339/Food-recpie-app)
 
 - 🌱 I’m currently learning **Android Devlopment**
 
