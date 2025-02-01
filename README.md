@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek mehta</h1>
-<h3 align="center">A passionate  developer..</h3>
+<h3 align="center">A passionate developer..</h3>
 
 <img align="right" alt="coding" width ="400" src = "https://pin.it/1sIz7mz5H">
 
