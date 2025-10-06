@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek mehta</h1>
 <h3 align="center">A passionate developer..</h3>
 
-<img align="right" alt="coding" width ="400" src = "https://camo.githubusercontent.com/pin.it/1sIz7mz5H">
+<img align="right" alt="coding" width ="400" src = "https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimehtaa339&label=Profile%20views&color=0e75b6&style=flat" alt="abhimehtaa339" /> </p>
 
