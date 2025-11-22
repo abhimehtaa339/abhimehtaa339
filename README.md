@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhimehtaa339](https://github.com/abhimehtaa339)
 
-- 💬 Ask me about **Java, xml, android, kotlin**
+- 💬 Ask me about **Java, xml, android, kotlin, python, django, elastic_search, celery**
 
 - 📫 How to reach me **abhimehtaa339@gmail.com**
 
